@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "orderuncrypt",
+        "uuid": 3613338,
+        "checksum": "dbwd1m"
+    },
+    "settings": {
+        "retries": 2,
+        "enabled": false,
+        "mode": "staging"
+    }
+}
